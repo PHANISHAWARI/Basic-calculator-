@@ -3,7 +3,7 @@
 void main()
 {
 printf("=============================\n");
-printf("\t\t Calculator\t\t\n");
+printf(".         Calculator         \n");
 printf("=============================\n");
 printf("1.Addition (+)\n");
 printf("2.Subtraction (-)\n");
