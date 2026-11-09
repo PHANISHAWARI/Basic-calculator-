@@ -7,7 +7,7 @@ int main()
     while(1)
         {
             printf("Enter any Integer\n");
-            printf("Use any of the operation as follows:");
+            printf("Use any of the operation as follows:\n");
             printf("+,-,*,/,%,^\n");
             printf("Example-->265/5\n");
             printf("Plese enter:");
